@@ -1,0 +1,11 @@
+Menim ideyam mobile application yaratmaqdi.
+Mobile application bakida olan parkovka problemini hell etmekdi. Application getdiyiniz yerde yaxin 500 metr erazide nece dene bow parkovka yeri olacagini bildirir. 
+User misal ucun 28 may erazisine gelir. Application unvani gorenden sonra hansi kucede necedene bow parkovka olacaq yerleri gosterir. Semed Vurgun kucesinde mesel ucun 20 parkovka yeri var.
+Her parking eliyen adam avtomata eskinaz daxil etdikde, proqram yerin az olmasini gosterir, ve yaxud olmadigini gosterir. Neqliyati intelektual idareetme merkezi applicationu tesdiq ederse
+Bakida parkovka problemi hell olunar.
+1.Bu lahiyenin parkovka problemini solve etmek ucun
+2.Web application ve mobile app		
+3.ugurun olcu vahidi probkalarin azalmasi ve suruculerin rahatligi
+5.Suruculer
+8.Proqramlasdirmani mukemmel seviyede bilmek
+11.Yox
